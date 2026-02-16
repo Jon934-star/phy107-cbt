@@ -1,0 +1,3019 @@
+{
+  "all": [
+    {
+      "id": "PHY001",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The S.I unit of period of oscillation is",
+      "options": {
+        "A": "minutes",
+        "B": "hours",
+        "C": "days",
+        "D": "seconds"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY002",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of these is true about a metre rule",
+      "options": {
+        "A": "it is always made up of plastic materials",
+        "B": "it is graduated in grammes",
+        "C": "it is graduated in centimeters",
+        "D": "none of the above"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY003",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of these is true about period of oscillation",
+      "options": {
+        "A": "it is the time for one complete oscillation",
+        "B": "it is measured in kilogrammes",
+        "C": "it is the same as the the time for 20 oscillation",
+        "D": "it has no unit"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY004",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Why is it necessary to take precaution in any physics practical experiment?",
+      "options": {
+        "A": "to get accurate result",
+        "B": "to make the experiment easy for us to carry-out",
+        "C": "to save time",
+        "D": "none of the above"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY005",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "In any electricity experiment the “Key” functions as",
+      "options": {
+        "A": "to establish potential difference in the circuit",
+        "B": "to stop or continue current flow",
+        "C": "to ensure tight connection of the connecting wires",
+        "D": "to generate current"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY006",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "In the measurement experiment of length, it is recorded to at least",
+      "options": {
+        "A": "one decimal place",
+        "B": "two decimal places",
+        "C": "three decimal places",
+        "D": "four decimal places"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY007",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "One of the following is not a fundamental unit",
+      "options": {
+        "A": "joules",
+        "B": "kilogrammes",
+        "C": "seconds",
+        "D": "metres"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY008",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "In an equation for a straight line graph ie Y= mx + c, M represents",
+      "options": {
+        "A": "intercept on the Y- axis",
+        "B": "intercept on the X- axis",
+        "C": "slope",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY009",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The thickness of a connecting  wire in an electricity experiment can be accurately measured by",
+      "options": {
+        "A": "metre rule",
+        "B": "spring balance",
+        "C": "vernier caliper",
+        "D": "clock"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY010",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of these parameters correctly matches with its unit",
+      "options": {
+        "A": "mass (kg)",
+        "B": "time (M)",
+        "C": "energy (N)",
+        "D": "distance (S)"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY011",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The instrument used for detecting electric current is?",
+      "options": {
+        "A": "Galvanometer",
+        "B": "Tube tester",
+        "C": "Altimeter",
+        "D": "Fathometer"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY012",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "When we heat floating ice in a pot, after converting into water, the level of water will _______",
+      "options": {
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Remain the same",
+        "D": "Increase and then decrease"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY013",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The  S I unit of electrical conductance is ________",
+      "options": {
+        "A": "Ohm",
+        "B": "Siemens",
+        "C": "Ohm meter",
+        "D": "Ampere"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY014",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "An ammeter is connected in _______ with the circuit.",
+      "options": {
+        "A": "Parallel",
+        "B": "Series",
+        "C": "Both Parallel and Series",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY015",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "________ are used by dentists to see an enlarged image of the teeth.",
+      "options": {
+        "A": "Concave mirrors",
+        "B": "Convex mirrors",
+        "C": "Bifocal mirrors",
+        "D": "Plain mirrors"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY016",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following are two factors that determine speed.",
+      "options": {
+        "A": "Acceleration and time",
+        "B": "Velocity and time",
+        "C": "Distance and time",
+        "D": "Motion and time."
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY017",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following represents acceleration as presented on a graph?",
+      "options": {
+        "A": "Motion change vs time",
+        "B": "Distance change vs time",
+        "C": "Speed change vs time",
+        "D": "Velocity change vs time"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY018",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is a force that opposes motion between two surfaces that are in contact?",
+      "options": {
+        "A": "Friction",
+        "B": "Motion",
+        "C": "Velocity",
+        "D": "Acceleration"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY019",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following prevents machines from being 100% efficient?",
+      "options": {
+        "A": "Friction",
+        "B": "Input force",
+        "C": "Output force",
+        "D": "Power"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY020",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following types of energy makes a light bulb feel warm?",
+      "options": {
+        "A": "Sound energy",
+        "B": "Thermal energy",
+        "C": "Nuclear energy",
+        "D": "Electrical energy"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY021",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the ability to do work called?",
+      "options": {
+        "A": "Movement",
+        "B": "Energy",
+        "C": "Power",
+        "D": "Force"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY022",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "A gram is _______",
+      "options": {
+        "A": "10^-6 Kg",
+        "B": "10^-3 Kg",
+        "C": "1 Kg",
+        "D": "103 Kg"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY023",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Velocity is defined as ________",
+      "options": {
+        "A": "Rate of change of position with time",
+        "B": "Position divided by time",
+        "C": "Rate of change of acceleration with time",
+        "D": "Change of position"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY024",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The inertia of a body tends to cause the body to",
+      "options": {
+        "A": "Speed up",
+        "B": "Slow down",
+        "C": "Resist any change in its motion/position",
+        "D": "Decelerate due to friction"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY025",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The internationally agreed system of units (SI) for physical measurements are",
+      "options": {
+        "A": "Lb, ft, sec",
+        "B": "g, m, sec",
+        "C": "kg, m, sec",
+        "D": "kg,cm, sec"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY026",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following statements about a spring balance and/or a chemical balance is Not correct",
+      "options": {
+        "A": "The chemical balance operates on the principle of moment.",
+        "B": "The spring balance operates on Hookes law",
+        "C": "Either may be used to measure the weight of substance.",
+        "D": "The reading of a spring balance changes."
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY027",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the instrument used for measuring length in a simple pendulum experiment?",
+      "options": {
+        "A": "VernierCalliper",
+        "B": "Micrometer screw gauge",
+        "C": "Meter rule",
+        "D": "Callipers"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY028",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The unit of current is",
+      "options": {
+        "A": "Coulomb",
+        "B": "Meter",
+        "C": "Second",
+        "D": "Ampere"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY029",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "If t = 20 sec and n = 10. What is the value of T",
+      "options": {
+        "A": "4 sec.",
+        "B": "2 sec.",
+        "C": "20 sec.",
+        "D": "10 sec."
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY030",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "If t = 20 sec and n = 10, what is the value of T^-1",
+      "options": {
+        "A": "0.5 sec",
+        "B": "0.2 sec.",
+        "C": "4 sec.",
+        "D": "None of the above."
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY031",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "In practicals, inverse values are recorded to how many decimal places",
+      "options": {
+        "A": "2 dp",
+        "B": "3 and above dp",
+        "C": "None of the above",
+        "D": "1 dp"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY032",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "When asked to plot a graph of D against G. Which of the quantities is on the vertical axis.",
+      "options": {
+        "A": "D",
+        "B": "G",
+        "C": "DG",
+        "D": "None of the above."
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY033",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The slope of a graph is calculated using",
+      "options": {
+        "A": "DY/DX",
+        "B": "DX/DY",
+        "C": "DYDX",
+        "D": "DX+DY"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY034",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "A graph plotted by a student has a positive slope with y=4m, y2=8m, x1= 10A and x2=20A. Calculate the slope of the graph.",
+      "options": {
+        "A": "0.4M/A",
+        "B": "0.8 A/M",
+        "C": "12 M/A",
+        "D": "0.6 M/A"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY035",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "If L=4cm, what is the value L^2",
+      "options": {
+        "A": "20.00cm2",
+        "B": "8.00 cm2",
+        "C": "16.00cm2",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY036",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "If L=4cm, what is the value of 100 – l/ L",
+      "options": {
+        "A": "18.0",
+        "B": "24.0",
+        "C": "40.0",
+        "D": "None of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY037",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "If L=4cm, what is the value of log L",
+      "options": {
+        "A": "0.602",
+        "B": "0.624",
+        "C": "0.672",
+        "D": "0.692"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY038",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "If L=4cm, what is the value of L-1",
+      "options": {
+        "A": "0.5cm-1",
+        "B": "0.25cm-1",
+        "C": "0.28cm-1",
+        "D": "0.3cm-1"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY039",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "If the unit of I is A. What is the unit of I inverse.",
+      "options": {
+        "A": "A2",
+        "B": "A^-1",
+        "C": "A",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY040",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The intercept C. of a graph was found to be 0.8cm and slope (S) was calculated as 0.2. Determine K=C/S",
+      "options": {
+        "A": "0.4cm",
+        "B": "0.8cm",
+        "C": "0.2cm",
+        "D": "4.0cm"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY041",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "In an experiment to determine the value of g using simple pendulum, T2 was plotted on the vertical axis and L on the horizontal axis where T and L on the period and length of the Pendulum respectively.  The value of g was determined to be 9.72m/s2. The value of the slope S to 2 decimal places was ____________ (Take ۸ = 3.142)",
+      "options": {
+        "A": "3.17s2/m",
+        "B": "4.06s2/m",
+        "C": "3.17m/s2",
+        "D": "4.06m/s2."
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY042",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "An experiment which gives a straight line graph with positive intercepts on both axes of the graph has ________________ slope",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Both Positive and Negative",
+        "D": "None of the above."
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY043",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "_____________is the more accurate between the measurement 40.0cm and 8.ocm of length",
+      "options": {
+        "A": "40.0cm",
+        "B": "3.0cm",
+        "C": "None of the above",
+        "D": "Both are more accurate"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY044",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The slope of a graph is obtained from a suitable ______________ drawn on the graph",
+      "options": {
+        "A": "Triangle",
+        "B": "Line",
+        "C": "Axis",
+        "D": "Scale"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY045",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "In recording measured values, a digit is significant if and only if affects the _______________ of the measurement",
+      "options": {
+        "A": "Relative Error",
+        "B": "Systematic  Error",
+        "C": "Random Error",
+        "D": "Percentage Error"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY046",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "n complete oscillations are made in t seconds, then the period T of the oscillation is given as __________________",
+      "options": {
+        "A": "tn",
+        "B": "t/n",
+        "C": "t/20",
+        "D": "2ot"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY047",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Smaller measurement is more _____________ for accuracy",
+      "options": {
+        "A": "Precise",
+        "B": "Good",
+        "C": "Fit",
+        "D": "plotted."
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY048",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The error in the measurement of a physical quantity due to wear and tear of the measuring instrument is called ____________",
+      "options": {
+        "A": "Relative Error",
+        "B": "Back Lash Error",
+        "C": "Percentage Error",
+        "D": "Random Error"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY049",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "A straight line joining most of the plotted points with the rest of the plotted points on either sides of  line is called line of ______________",
+      "options": {
+        "A": "Same Plotted",
+        "B": "Best Fit",
+        "C": "Best Plotted",
+        "D": "Same Fit"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY050",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "In an experiment, measurement of variable were repeated in order to minimize __________________Error",
+      "options": {
+        "A": "Percentage",
+        "B": "Relative",
+        "C": "Back Lash",
+        "D": "Random"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY051",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the formula for calculating the period of a simple pendulum?",
+      "options": {
+        "A": "T = 2π√(L/g)",
+        "B": "T = 2π√(g/L)",
+        "C": "T = 2π(L/g)",
+        "D": "T = 2π(g/L)"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY052",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following factors affects the period of a simple pendulum?",
+      "options": {
+        "A": "Length of the pendulum",
+        "B": "Mass of the pendulum bob",
+        "C": "Amplitude of the swing",
+        "D": "All of the above"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY053",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "How can the acceleration due to gravity (g) be determined using a simple pendulum?",
+      "options": {
+        "A": "By measuring the length of the pendulum",
+        "B": "By measuring the period of the pendulum",
+        "C": "By measuring the amplitude of the swing",
+        "D": "By measuring the mass of the pendulum bob"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY054",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the formula for calculating the extension per unit mass of a spiral spring?",
+      "options": {
+        "A": "x/m = k/F",
+        "B": "x/m = F/k",
+        "C": "x/F = k/m",
+        "D": "x/F = m/k"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY055",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following factors affect the extension of a spiral spring?",
+      "options": {
+        "A": "Force applied to the spring",
+        "B": "Spring constant",
+        "C": "Length of the spring",
+        "D": "All of the above"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY056",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "How can the value of the spring constant (k) be determined using a spiral spring?",
+      "options": {
+        "A": "By measuring the extension of the spring",
+        "B": "By measuring the force applied to the spring",
+        "C": "By measuring the length of the spring",
+        "D": "By measuring the mass attached to the spring"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY057",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is a compound pendulum?",
+      "options": {
+        "A": "A pendulum with a mass attached to it",
+        "B": "A pendulum with multiple bobs",
+        "C": "A pendulum made of a compound material",
+        "D": "A pendulum with a complex swinging motion"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY058",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "How can the acceleration due to gravity (g) be determined using a compound pendulum?",
+      "options": {
+        "A": "By measuring the length of the pendulum",
+        "B": "By measuring the period of the pendulum",
+        "C": "By measuring the amplitude of the swing",
+        "D": "By measuring the mass of the pendulum bob"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY059",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What additional factor needs to be considered when determining the acceleration due to gravity using a compound pendulum compared to a simple pendulum?",
+      "options": {
+        "A": "Length of the pendulum",
+        "B": "Mass of the pendulum bob",
+        "C": "Moment of inertia of the pendulum",
+        "D": "None of the above"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY060",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following connections can be used to determine the value of a resistance?",
+      "options": {
+        "A": "Series connection",
+        "B": "Parallel connection",
+        "C": "Combination of series and parallel connections",
+        "D": "It cannot be determined using connections"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY061",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "In a series connection, how are resistances connected?",
+      "options": {
+        "A": "One after the other, with a common current flowing through them",
+        "B": "Side by side, with individual currents flowing through them",
+        "C": "In a loop, with currents flowing in opposite directions",
+        "D": "None of the above"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY062",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "In a parallel connection, how are resistances connected?",
+      "options": {
+        "A": "One after the other, with a common current flowing through them",
+        "B": "Side by side, with individual currents flowing through them",
+        "C": "In a loop, with currents flowing in opposite directions",
+        "D": "None of the above"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY063",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the formula for calculating the total resistance in a series connection?",
+      "options": {
+        "A": "1/R_total = 1/R1 + 1/R2 + 1/R3 + ...",
+        "B": "R_total = R1 + R2 + R3 + ...",
+        "C": "R_total = R1 × R2 × R3 × ...",
+        "D": "R_total = 1/(R1 + R2 + R3 + ...)"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY064",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the formula for calculating the total resistance in a parallel connection?",
+      "options": {
+        "A": "1/R_total = 1/R1 + 1/R2 + 1/R3 + ...",
+        "B": "R_total = R1 + R2 + R3 + ...",
+        "C": "R_total = R1 × R2 × R3 × ...",
+        "D": "R_total = 1/(R1 + R2 + R3 + ...)"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY065",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following connections is used when resistances have different values?",
+      "options": {
+        "A": "Series connection",
+        "B": "Parallel connection",
+        "C": "Combination of series and parallel connections",
+        "D": "It cannot be determined using connections"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY066",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the formula for calculating the equivalent resistance of resistors in series?",
+      "options": {
+        "A": "R_eq = R1 + R2 + R3 + ...",
+        "B": "R_eq = R1 × R2 × R3 × ...",
+        "C": "R_eq = 1/(R1 + R2 + R3 + ...)",
+        "D": "R_eq = 1/(R1 × R2 × R3 × ...)"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY067",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the formula for calculating the equivalent resistance of resistors in parallel?",
+      "options": {
+        "A": "R_eq = R1 + R2 + R3 + ...",
+        "B": "R_eq = R1 × R2 × R3 × ...",
+        "C": "R_eq = 1/(R1 + R2 + R3 + ...)",
+        "D": "R_eq = 1/(R1 × R2 × R3 × ...)"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY068",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following is true for resistances connected in series?",
+      "options": {
+        "A": "The total resistance is always greater than any individual resistance.",
+        "B": "The total resistance is always smaller than any individual resistance.",
+        "C": "The total resistance is equal to the sum of the individual resistances.",
+        "D": "The total resistance is equal to the product of the individual resistances."
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY069",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following is true for resistances connected in parallel?",
+      "options": {
+        "A": "The total resistance is always greater than any individual resistance.",
+        "B": "The total resistance is always smaller than any individual resistance.",
+        "C": "The total resistance is equal to the sum of the individual resistances.",
+        "D": "The total resistance is equal to the product of the individual resistances."
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY070",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the unit of resistance?",
+      "options": {
+        "A": "Ampere (A)",
+        "B": "Volt (V)",
+        "C": "Ohm (Ω)",
+        "D": "Joule (J)"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY071",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which instrument is used to measure resistance?",
+      "options": {
+        "A": "Ammeter",
+        "B": "Voltmeter",
+        "C": "Ohmmeter",
+        "D": "Wattmeter"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY072",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the color code for a resistor with a resistance value of 470 Ω?",
+      "options": {
+        "A": "Yellow, Violet, Brown",
+        "B": "Yellow, Violet, Red",
+        "C": "Yellow, Green, Brown",
+        "D": "Yellow, Green, Red"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY073",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following materials has the highest resistance?",
+      "options": {
+        "A": "Copper",
+        "B": "Silver",
+        "C": "Gold",
+        "D": "Nichrome"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY074",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following materials has the lowest resistance?",
+      "options": {
+        "A": "Copper",
+        "B": "Silver",
+        "C": "Gold",
+        "D": "Nichrome"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY075",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the resistance of a superconductor material?",
+      "options": {
+        "A": "Zero",
+        "B": "Infinite",
+        "C": "Variable",
+        "D": "Negative"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY076",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following factors does not affect the resistance of a conductor?",
+      "options": {
+        "A": "Length of the conductor",
+        "B": "Cross-sectional area of the conductor",
+        "C": "Temperature of the conductor",
+        "D": "Material of the conductor"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY077",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the relationship between resistance (R) and current (I) in a circuit?",
+      "options": {
+        "A": "R = I²",
+        "B": "R = 1/I",
+        "C": "R = I/V",
+        "D": "R = V/I"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY078",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the relationship between resistance (R) and voltage (V) in a circuit?",
+      "options": {
+        "A": "R = I²",
+        "B": "R = 1/I",
+        "C": "R = I/V",
+        "D": "R = V/I"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY079",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following statements is true regarding the resistance of a wire?",
+      "options": {
+        "A": "Thicker wires have higher resistance than thinner wires.",
+        "B": "Longer wires have higher resistance than shorter wires.",
+        "C": "Higher temperatures decrease the resistance of a wire.",
+        "D": "Resistance is independent of the type of material used in the wire."
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY080",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following materials is commonly used as a variable resistor?",
+      "options": {
+        "A": "Copper",
+        "B": "Silver",
+        "C": "Carbon",
+        "D": "Aluminum"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY081",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the principle behind a potentiometer?",
+      "options": {
+        "A": "Ohm's Law",
+        "B": "Joule's Law",
+        "C": "Kirchhoff's Law",
+        "D": "Wheatstone Bridge"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY082",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following is used to measure the potential difference between two points in a circuit?",
+      "options": {
+        "A": "Ammeter",
+        "B": "Voltmeter",
+        "C": "Ohmmeter",
+        "D": "Wattmeter"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY083",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the unit of potential difference?",
+      "options": {
+        "A": "Ampere (A)",
+        "B": "Volt (V)",
+        "C": "Ohm (Ω)",
+        "D": "Joule (J)"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY084",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following is true regarding the potential difference in a series circuit?",
+      "options": {
+        "A": "The potential difference across each component is the same.",
+        "B": "The potential difference across each component is different.",
+        "C": "The total potential difference is equal to the sum of the individual potential differences.",
+        "D": "The total potential difference is equal to the product of the individual potential differences."
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY085",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following is true regarding the potential difference in a parallel circuit?",
+      "options": {
+        "A": "The potential difference across each component is the same.",
+        "B": "The potential difference across each component is different.",
+        "C": "The total potential difference is equal to the sum of the individual potential differences.",
+        "D": "The total potential difference is equal to the product of the individual potential differences."
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY086",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is Kirchhoff's first law?",
+      "options": {
+        "A": "The total current entering a junction is equal to the total current leaving the junction.",
+        "B": "The sum of the potential differences in a closed loop is zero.",
+        "C": "The total resistance in a series circuit is equal to the sum of the individual resistances.",
+        "D": "The total resistance in a parallel circuit is equal to the reciprocal of the sum of the reciprocals of the individual resistances."
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY087",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is Kirchhoff's second law?",
+      "options": {
+        "A": "The total current entering a junction is equal to the total current leaving the junction.",
+        "B": "The sum of the potential differences in a closed loop is zero.",
+        "C": "The total resistance in a series circuit is equal to the sum of the individual resistances.",
+        "D": "The total resistance in a parallel circuit is equal to the reciprocal of the sum of the reciprocals of the individual resistances."
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY088",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following statements is true for a series-parallel combination of resistances?",
+      "options": {
+        "A": "The total resistance is always greater than any individual resistance.",
+        "B": "The total resistance is always smaller than any individual resistance.",
+        "C": "The total resistance is equal to the sum of the individual resistances.",
+        "D": "The total resistance is equal to the product of the individual resistances."
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY089",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following statements is true for a parallel-series combination of resistances?",
+      "options": {
+        "A": "The total resistance is always greater than any individual resistance.",
+        "B": "The total resistance is always smaller than any individual resistance.",
+        "C": "The total resistance is equal to the sum of the individual resistances.",
+        "D": "The total resistance is equal to the product of the individual resistances."
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY090",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which law can be used to analyze circuits with multiple loops and junctions?",
+      "options": {
+        "A": "Ohm's Law",
+        "B": "Joule's Law",
+        "C": "Kirchhoff's Laws",
+        "D": "Newton's Laws"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY091",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the unit of electric current?",
+      "options": {
+        "A": "Ampere (A)",
+        "B": "Volt (V)",
+        "C": "Ohm (Ω)",
+        "D": "Joule (J)"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY092",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the formula for calculating electric current (I) using charge (Q) and time (t)?",
+      "options": {
+        "A": "I = Q/t",
+        "B": "I = Q × t",
+        "C": "I = Q + t",
+        "D": "I = Q - t"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY093",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which instrument is used to measure electric current?",
+      "options": {
+        "A": "Ammeter",
+        "B": "Voltmeter",
+        "C": "Ohmmeter",
+        "D": "Wattmeter"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY094",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the relationship between current (I) and voltage (V) in a circuit?",
+      "options": {
+        "A": "I = V²",
+        "B": "I = 1/V",
+        "C": "I = V/R",
+        "D": "I = R/V"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY095",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the relationship between charge (Q), current (I), and time (t)?",
+      "options": {
+        "A": "Q = I × t",
+        "B": "Q = I/t",
+        "C": "Q = I + t",
+        "D": "Q = I - t"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY096",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following materials is a good conductor of electricity?",
+      "options": {
+        "A": "Rubber",
+        "B": "Glass",
+        "C": "Copper",
+        "D": "Plastic"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY097",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following materials is a good insulator of electricity?",
+      "options": {
+        "A": "Copper",
+        "B": "Aluminum",
+        "C": "Silver",
+        "D": "Rubber"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY098",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the process of transferring charge by direct contact called?",
+      "options": {
+        "A": "Conduction",
+        "B": "Convection",
+        "C": "Radiation",
+        "D": "Induction"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY099",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "What is the process of transferring charge through a medium or space without direct contact called?",
+      "options": {
+        "A": "Conduction",
+        "B": "Convection",
+        "C": "Radiation",
+        "D": "Induction"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY100",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which of the following devices is used to store electric charge?",
+      "options": {
+        "A": "Battery",
+        "B": "Resistor",
+        "C": "Capacitor",
+        "D": "Inductor"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY101",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The micrometer screw gauge can measure to an accuracy of",
+      "options": {
+        "A": "0.1 mm",
+        "B": "0.01 mm",
+        "C": "0.001 mm",
+        "D": "1 mm"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY102",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Zero error in an instrument is an example of",
+      "options": {
+        "A": "Random error",
+        "B": "Systematic error",
+        "C": "Human error",
+        "D": "Parallax error"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY103",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Parallax error is minimized by",
+      "options": {
+        "A": "Reading at eye level",
+        "B": "Using digital instruments",
+        "C": "Repeating measurements",
+        "D": "Using smaller units"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY104",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The number 0.004560 has _______ significant figures",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "7"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY105",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Which has the highest precision: 10.0 cm, 10.00 cm, or 10 cm?",
+      "options": {
+        "A": "10.0 cm",
+        "B": "10.00 cm",
+        "C": "10 cm",
+        "D": "All equal"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY106",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "For a pendulum of length 1m, the period is approximately",
+      "options": {
+        "A": "1 s",
+        "B": "2 s",
+        "C": "3 s",
+        "D": "4 s"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY107",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Doubling the mass of the bob in a simple pendulum",
+      "options": {
+        "A": "Doubles the period",
+        "B": "Halves the period",
+        "C": "Has no effect on period",
+        "D": "Quadruples period"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY108",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The effective length of a simple pendulum is measured from",
+      "options": {
+        "A": "Top to bottom",
+        "B": "Support to center of bob",
+        "C": "Support to bottom of bob",
+        "D": "String length only"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY109",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "For small angles, the period of pendulum is",
+      "options": {
+        "A": "Dependent on angle",
+        "B": "Independent of angle",
+        "C": "Proportional to angle",
+        "D": "Inversely proportional to angle"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY110",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "g can be calculated from pendulum using g =",
+      "options": {
+        "A": "4π²L/T²",
+        "B": "4π²T²/L",
+        "C": "2πL/T",
+        "D": "T²/4π²L"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY111",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The SI unit of electric charge is",
+      "options": {
+        "A": "Ampere",
+        "B": "Coulomb",
+        "C": "Volt",
+        "D": "Ohm"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY112",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "1 Ampere equals",
+      "options": {
+        "A": "1 C/s",
+        "B": "1 V/Ω",
+        "C": "1 J/s",
+        "D": "Both A and B"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY113",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Internal resistance of a cell causes",
+      "options": {
+        "A": "Voltage drop",
+        "B": "Current increase",
+        "C": "Power increase",
+        "D": "No effect"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY114",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "EMF of a cell is measured when",
+      "options": {
+        "A": "Current flows",
+        "B": "Circuit is closed",
+        "C": "Circuit is open",
+        "D": "Resistance is high"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY115",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "A rheostat is used to",
+      "options": {
+        "A": "Measure current",
+        "B": "Vary resistance",
+        "C": "Measure voltage",
+        "D": "Store charge"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY116",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Kirchhoff's current law states that sum of currents at a junction",
+      "options": {
+        "A": "Is zero",
+        "B": "Is maximum",
+        "C": "Is minimum",
+        "D": "Varies"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY117",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "For three 6Ω resistors in series, total resistance is",
+      "options": {
+        "A": "2Ω",
+        "B": "6Ω",
+        "C": "18Ω",
+        "D": "36Ω"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY118",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "For three 6Ω resistors in parallel, total resistance is",
+      "options": {
+        "A": "2Ω",
+        "B": "6Ω",
+        "C": "18Ω",
+        "D": "0.5Ω"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY119",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The color code for a 1kΩ resistor is",
+      "options": {
+        "A": "Brown-black-red",
+        "B": "Red-red-red",
+        "C": "Brown-black-black",
+        "D": "Red-black-brown"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY120",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Electrical power is measured in",
+      "options": {
+        "A": "Joules",
+        "B": "Watts",
+        "C": "Amperes",
+        "D": "Ohms"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY121",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "A stiffer spring has a _______ spring constant",
+      "options": {
+        "A": "Lower",
+        "B": "Higher",
+        "C": "Zero",
+        "D": "Negative"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY122",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The energy stored in a stretched spring is",
+      "options": {
+        "A": "½kx",
+        "B": "kx²",
+        "C": "½kx²",
+        "D": "2kx"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY123",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Beyond elastic limit, a spring becomes",
+      "options": {
+        "A": "Stronger",
+        "B": "Permanently deformed",
+        "C": "More elastic",
+        "D": "Rigid"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY124",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Young's modulus is defined as",
+      "options": {
+        "A": "Stress/Strain",
+        "B": "Strain/Stress",
+        "C": "Force × Extension",
+        "D": "Force/Area"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY125",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "For a spring in series combination, the effective k is",
+      "options": {
+        "A": "Greater than individual k",
+        "B": "Less than individual k",
+        "C": "Same as individual k",
+        "D": "Zero"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY126",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "If y = mx + c and c = 0, the graph passes through",
+      "options": {
+        "A": "Origin",
+        "B": "Y-axis",
+        "C": "X-axis",
+        "D": "Nowhere specific"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY127",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "A graph with negative slope goes",
+      "options": {
+        "A": "Upward left to right",
+        "B": "Downward left to right",
+        "C": "Horizontally",
+        "D": "Vertically"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY128",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The intercept of y = 3x + 5 on y-axis is",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "8",
+        "D": "0"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY129",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "To find slope between (2,4) and (6,12), we calculate",
+      "options": {
+        "A": "(12-4)/(6-2)",
+        "B": "(6-2)/(12-4)",
+        "C": "12/6",
+        "D": "4/2"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY130",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Extrapolation means",
+      "options": {
+        "A": "Extending graph beyond data",
+        "B": "Interpolating between points",
+        "C": "Drawing best fit line",
+        "D": "Calculating slope"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY131",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Logarithmic graph is useful when data varies",
+      "options": {
+        "A": "Linearly",
+        "B": "Exponentially",
+        "C": "Randomly",
+        "D": "Constantly"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY132",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "On log-log paper, y = axⁿ becomes",
+      "options": {
+        "A": "Curve",
+        "B": "Straight line",
+        "C": "Circle",
+        "D": "Parabola"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY133",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The best-fit line should have",
+      "options": {
+        "A": "All points on it",
+        "B": "Maximum points on it",
+        "C": "Equal points on both sides",
+        "D": "No points on it"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY134",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The focal length of a concave mirror is",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY135",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "For a real image, magnification is",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Undefined"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY136",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Refractive index n = ",
+      "options": {
+        "A": "c/v",
+        "B": "v/c",
+        "C": "c × v",
+        "D": "c + v"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY137",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Total internal reflection occurs when light travels from",
+      "options": {
+        "A": "Denser to rarer medium",
+        "B": "Rarer to denser medium",
+        "C": "Same medium",
+        "D": "Vacuum"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY138",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Critical angle depends on",
+      "options": {
+        "A": "Angle of incidence",
+        "B": "Wavelength",
+        "C": "Refractive index",
+        "D": "Temperature"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY139",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "To find the period of a pendulum, we measure time for",
+      "options": {
+        "A": "1 oscillation",
+        "B": "10 oscillations",
+        "C": "20 oscillations",
+        "D": "5 oscillations"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY140",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "In a circuit, the key/switch is",
+      "options": {
+        "A": "Closed first, then opened",
+        "B": "Always closed",
+        "C": "Opened first, then closed",
+        "D": "Never used"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY141",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "A suitable triangle for finding slope should span",
+      "options": {
+        "A": "Small portion of graph",
+        "B": "At least half the graph",
+        "C": "Entire graph",
+        "D": "One quadrant"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY142",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Readings should be repeated to",
+      "options": {
+        "A": "Waste time",
+        "B": "Minimize random errors",
+        "C": "Check instrument",
+        "D": "Fill table"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY143",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The range of a set of readings is",
+      "options": {
+        "A": "Maximum value",
+        "B": "Minimum value",
+        "C": "Max - Min",
+        "D": "Average"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 practical notes for detailed explanation."
+    },
+    {
+      "id": "PHY144",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Acceleration is the rate of change of",
+      "options": {
+        "A": "displacement",
+        "B": "velocity",
+        "C": "speed",
+        "D": "force"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY145",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The unit of momentum is",
+      "options": {
+        "A": "kgm/s",
+        "B": "kgm/s²",
+        "C": "kg/m",
+        "D": "Ns"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY146",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Newton's first law is also called law of",
+      "options": {
+        "A": "acceleration",
+        "B": "inertia",
+        "C": "action-reaction",
+        "D": "gravitation"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY147",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Weight is measured in",
+      "options": {
+        "A": "kg",
+        "B": "g",
+        "C": "N",
+        "D": "m/s²"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY148",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Mass is a _______ quantity",
+      "options": {
+        "A": "vector",
+        "B": "scalar",
+        "C": "derived",
+        "D": "none"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY149",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The vernier scale divides _______ main scale divisions",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "8"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY150",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "To read a micrometer, you add",
+      "options": {
+        "A": "Sleeve + thimble",
+        "B": "Sleeve - thimble",
+        "C": "Sleeve × thimble",
+        "D": "Sleeve / thimble"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY151",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "One complete rotation of micrometer thimble moves",
+      "options": {
+        "A": "0.1 mm",
+        "B": "0.5 mm",
+        "C": "1 mm",
+        "D": "0.01 mm"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY152",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Percentage error = (Error/True value) ×",
+      "options": {
+        "A": "10",
+        "B": "50",
+        "C": "100",
+        "D": "1000"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY153",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Absolute error is the",
+      "options": {
+        "A": "difference between measured and true",
+        "B": "average error",
+        "C": "maximum error",
+        "D": "minimum error"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY154",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Resistance of a conductor increases with",
+      "options": {
+        "A": "length",
+        "B": "area",
+        "C": "both",
+        "D": "neither"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY155",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Resistivity depends on",
+      "options": {
+        "A": "length",
+        "B": "area",
+        "C": "material",
+        "D": "voltage"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY156",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "A fuse is connected in _______ with the appliance",
+      "options": {
+        "A": "series",
+        "B": "parallel",
+        "C": "either",
+        "D": "neither"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY157",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Joule's law of heating: H = ",
+      "options": {
+        "A": "VIt",
+        "B": "I²Rt",
+        "C": "V²t/R",
+        "D": "All of these"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY158",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The unit of electrical energy is",
+      "options": {
+        "A": "joule",
+        "B": "watt",
+        "C": "ampere",
+        "D": "volt"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY159",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "A conductor has _______ resistance",
+      "options": {
+        "A": "high",
+        "B": "low",
+        "C": "infinite",
+        "D": "zero"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY160",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "An insulator has _______ resistance",
+      "options": {
+        "A": "very high",
+        "B": "very low",
+        "C": "zero",
+        "D": "negative"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY161",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Superconductors have _______ resistance",
+      "options": {
+        "A": "very high",
+        "B": "very low",
+        "C": "zero",
+        "D": "infinite"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY162",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "When y increases as x increases, correlation is",
+      "options": {
+        "A": "positive",
+        "B": "negative",
+        "C": "zero",
+        "D": "undefined"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY163",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "A parabola represents _______ relationship",
+      "options": {
+        "A": "linear",
+        "B": "quadratic",
+        "C": "cubic",
+        "D": "exponential"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY164",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The point where graph cuts y-axis is",
+      "options": {
+        "A": "x-intercept",
+        "B": "y-intercept",
+        "C": "origin",
+        "D": "slope"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY165",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Gradient = rise/",
+      "options": {
+        "A": "fall",
+        "B": "run",
+        "C": "distance",
+        "D": "slope"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY166",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "For y = 2x + 3, when x = 0, y = ",
+      "options": {
+        "A": "0",
+        "B": "2",
+        "C": "3",
+        "D": "5"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY167",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Snell's law: n₁sinθ₁ = ",
+      "options": {
+        "A": "n₂sinθ₂",
+        "B": "n₂cosθ₂",
+        "C": "n₂tanθ₂",
+        "D": "n₂/sinθ₂"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY168",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "For a plane mirror, magnification is",
+      "options": {
+        "A": "-1",
+        "B": "+1",
+        "C": "0",
+        "D": "∞"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY169",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Power of a lens P = 1/",
+      "options": {
+        "A": "u",
+        "B": "v",
+        "C": "f",
+        "D": "m"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY170",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Convex lens is a _______ lens",
+      "options": {
+        "A": "diverging",
+        "B": "converging",
+        "C": "plane",
+        "D": "concave"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY171",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Concave lens always forms _______ image",
+      "options": {
+        "A": "real",
+        "B": "virtual",
+        "C": "inverted",
+        "D": "enlarged"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY172",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Wavelength λ = v/",
+      "options": {
+        "A": "T",
+        "B": "f",
+        "C": "ω",
+        "D": "t"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY173",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Frequency f = 1/",
+      "options": {
+        "A": "λ",
+        "B": "v",
+        "C": "T",
+        "D": "ω"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY174",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Speed of light in vacuum is approximately",
+      "options": {
+        "A": "3×10⁶ m/s",
+        "B": "3×10⁷ m/s",
+        "C": "3×10⁸ m/s",
+        "D": "3×10⁹ m/s"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY175",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Sound travels fastest in",
+      "options": {
+        "A": "vacuum",
+        "B": "air",
+        "C": "water",
+        "D": "steel"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer is D. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY176",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Transverse waves have vibrations _______ to direction of travel",
+      "options": {
+        "A": "parallel",
+        "B": "perpendicular",
+        "C": "at 45°",
+        "D": "circular"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY177",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The SI unit of temperature is",
+      "options": {
+        "A": "Celsius",
+        "B": "Fahrenheit",
+        "C": "Kelvin",
+        "D": "Rankine"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY178",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "0°C = _______ K",
+      "options": {
+        "A": "0",
+        "B": "100",
+        "C": "273",
+        "D": "373"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY179",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Specific heat capacity is measured in",
+      "options": {
+        "A": "J/kg",
+        "B": "J/kgK",
+        "C": "J/K",
+        "D": "kJ"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY180",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Heat flows from _______ to _______ body",
+      "options": {
+        "A": "cold, hot",
+        "B": "hot, cold",
+        "C": "large, small",
+        "D": "small, large"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY181",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Thermal expansion is greatest in",
+      "options": {
+        "A": "solids",
+        "B": "liquids",
+        "C": "gases",
+        "D": "all equal"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY182",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Friction opposes",
+      "options": {
+        "A": "motion",
+        "B": "rest",
+        "C": "gravity",
+        "D": "weight"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY183",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Coefficient of friction μ = F/",
+      "options": {
+        "A": "N",
+        "B": "m",
+        "C": "a",
+        "D": "v"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY184",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Air resistance increases with",
+      "options": {
+        "A": "speed",
+        "B": "mass",
+        "C": "time",
+        "D": "distance"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY185",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Terminal velocity is reached when",
+      "options": {
+        "A": "acceleration = 0",
+        "B": "velocity = 0",
+        "C": "force = 0",
+        "D": "time = 0"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY186",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Centripetal force = mv²/",
+      "options": {
+        "A": "t",
+        "B": "r",
+        "C": "a",
+        "D": "g"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY187",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Kinetic energy = ½m",
+      "options": {
+        "A": "v",
+        "B": "v²",
+        "C": "v³",
+        "D": "√v"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY188",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Potential energy = m",
+      "options": {
+        "A": "gh",
+        "B": "g/h",
+        "C": "h/g",
+        "D": "g+h"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY189",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Work done = Force ×",
+      "options": {
+        "A": "time",
+        "B": "distance",
+        "C": "velocity",
+        "D": "acceleration"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY190",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Efficiency = (Output/Input) ×",
+      "options": {
+        "A": "10",
+        "B": "50",
+        "C": "100",
+        "D": "1000"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY191",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Power = Work/",
+      "options": {
+        "A": "distance",
+        "B": "force",
+        "C": "time",
+        "D": "mass"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY192",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Pressure = Force/",
+      "options": {
+        "A": "time",
+        "B": "area",
+        "C": "volume",
+        "D": "mass"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY193",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The unit of pressure is",
+      "options": {
+        "A": "N",
+        "B": "Pa",
+        "C": "J",
+        "D": "W"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY194",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "1 Pa = 1",
+      "options": {
+        "A": "N/m",
+        "B": "N/m²",
+        "C": "N×m",
+        "D": "N×m²"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY195",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Atmospheric pressure is approximately",
+      "options": {
+        "A": "10⁵ Pa",
+        "B": "10⁴ Pa",
+        "C": "10⁶ Pa",
+        "D": "10³ Pa"
+      },
+      "correct_answer": "A",
+      "explanation": "The correct answer is A. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY196",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Pressure in liquids increases with",
+      "options": {
+        "A": "height",
+        "B": "depth",
+        "C": "width",
+        "D": "volume"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY197",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "To avoid parallax, eye should be",
+      "options": {
+        "A": "above scale",
+        "B": "below scale",
+        "C": "perpendicular to scale",
+        "D": "at any angle"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY198",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Repeated readings help to",
+      "options": {
+        "A": "save time",
+        "B": "reduce random errors",
+        "C": "increase errors",
+        "D": "confuse results"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY199",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "The most reliable value is the",
+      "options": {
+        "A": "first reading",
+        "B": "last reading",
+        "C": "average",
+        "D": "maximum"
+      },
+      "correct_answer": "C",
+      "explanation": "The correct answer is C. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY200",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "Anomalous results should be",
+      "options": {
+        "A": "ignored",
+        "B": "repeated",
+        "C": "averaged",
+        "D": "doubled"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    },
+    {
+      "id": "PHY201",
+      "difficulty": "all",
+      "topic": "PHY107 Practical Physics",
+      "subtopic": "General",
+      "question": "A straight line graph indicates",
+      "options": {
+        "A": "no relationship",
+        "B": "direct proportionality",
+        "C": "inverse proportionality",
+        "D": "random relationship"
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer is B. Review your PHY107 notes."
+    }
+  ]
+}

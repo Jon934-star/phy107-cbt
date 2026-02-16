@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHY107 CBT Practice Exam</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Login Page -->
+    <div id="loginPage" class="page active">
+        <div class="login-container">
+            <div class="login-header">
+                <i class="fas fa-bolt"></i>
+                <h1>PHY107 CBT Practice</h1>
+                <p>Practical Physics - 30 Questions, 15 Minutes</p>
+            </div>
+            <div class="login-form">
+                <h2>Student Login</h2>
+                <div class="form-group">
+                    <label><i class="fas fa-user"></i> Full Name</label>
+                    <input type="text" id="studentName" placeholder="Your name" required>
+                </div>
+                <div class="form-group">
+                    <label><i class="fas fa-building"></i> Department</label>
+                    <input type="text" id="studentDept" placeholder="Your department" required>
+                </div>
+                <button onclick="login()" class="btn btn-primary">
+                    Start Practice <i class="fas fa-arrow-right"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Start Page -->
+    <div id="startPage" class="page">
+        <div class="stage-container">
+            <div class="welcome-header">
+                <h1>Welcome, <span id="welcomeNameStart"></span>!</h1>
+                <p>PHY107 Practical Physics CBT Practice</p>
+            </div>
+            <div class="stage-card">
+                <div class="stage-icon stage1-icon">
+                    <i class="fas fa-flask"></i>
+                </div>
+                <h2>Practice Exam</h2>
+                <div class="stage-details">
+                    <p><i class="fas fa-question-circle"></i> 30 Questions</p>
+                    <p><i class="fas fa-clock"></i> 15 Minutes</p>
+                    <p><i class="fas fa-random"></i> Random from 201 question pool</p>
+                </div>
+                <button onclick="startExam()" class="btn btn-primary btn-stage">
+                    Start Exam <i class="fas fa-play"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Exam Page -->
+    <div id="examPage" class="page">
+        <div class="exam-header">
+            <div class="exam-info">
+                <h2>PHY107 Practice Exam</h2>
+                <p id="examProgress">Question 1 of 30</p>
+            </div>
+            <div class="exam-timer" id="timer">
+                <i class="fas fa-clock"></i>
+                <span id="timerDisplay">15:00</span>
+            </div>
+        </div>
+
+        <div class="exam-container">
+            <div class="question-card">
+                <div class="question-header">
+                    <span class="question-number" id="questionNumber">Question 1</span>
+                </div>
+                <div class="question-text" id="questionText">Loading...</div>
+                <div class="options" id="optionsContainer"></div>
+            </div>
+
+            <div class="exam-navigation">
+                <button onclick="previousQuestion()" class="btn btn-secondary" id="prevBtn">
+                    <i class="fas fa-arrow-left"></i> Previous
+                </button>
+                <button onclick="flagQuestion()" class="btn btn-outline" id="flagBtn">
+                    <i class="far fa-flag"></i> Flag
+                </button>
+                <button onclick="nextQuestion()" class="btn btn-primary" id="nextBtn">
+                    Next <i class="fas fa-arrow-right"></i>
+                </button>
+            </div>
+
+            <div class="question-grid">
+                <h3>Question Navigator</h3>
+                <div id="questionGrid" class="grid-container"></div>
+                <div class="grid-legend">
+                    <span><span class="legend-box answered"></span> Answered</span>
+                    <span><span class="legend-box flagged"></span> Flagged</span>
+                    <span><span class="legend-box unanswered"></span> Unanswered</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="exam-footer">
+            <button onclick="submitExam()" class="btn btn-submit">
+                <i class="fas fa-check"></i> Submit Exam
+            </button>
+        </div>
+    </div>
+
+    <!-- Results Page -->
+    <div id="resultsPage" class="page">
+        <div class="results-container">
+            <div class="results-header">
+                <h1>Exam Results</h1>
+            </div>
+
+            <div class="score-display">
+                <div class="score-circle" id="scoreCircle">
+                    <div class="score-inner">
+                        <span class="score-percentage" id="scorePercentage">0%</span>
+                        <span class="score-label">Your Score</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="results-breakdown">
+                <div class="stat-card">
+                    <i class="fas fa-check-circle"></i>
+                    <h3 id="correctCount">0</h3>
+                    <p>Correct</p>
+                </div>
+                <div class="stat-card">
+                    <i class="fas fa-times-circle"></i>
+                    <h3 id="wrongCount">0</h3>
+                    <p>Wrong</p>
+                </div>
+                <div class="stat-card">
+                    <i class="fas fa-circle"></i>
+                    <h3>30</h3>
+                    <p>Total</p>
+                </div>
+            </div>
+
+            <div class="verdict" id="verdict"></div>
+
+            <div class="topic-performance" id="topicPerformance">
+                <div id="topicBreakdown"></div>
+            </div>
+
+            <div class="results-actions">
+                <button onclick="reviewAnswers()" class="btn btn-primary">
+                    <i class="fas fa-search"></i> Review Answers
+                </button>
+                <button onclick="retakeExam()" class="btn btn-secondary">
+                    <i class="fas fa-redo"></i> Try Again
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Review Page -->
+    <div id="reviewPage" class="page">
+        <div class="review-container">
+            <div class="review-header">
+                <h1>Answer Review</h1>
+                <button onclick="backToResults()" class="btn btn-secondary">
+                    <i class="fas fa-arrow-left"></i> Back
+                </button>
+            </div>
+            <div id="reviewContent"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
